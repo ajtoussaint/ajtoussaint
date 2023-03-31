@@ -25,7 +25,7 @@
           <a align="center" href="https://note-taking-app-jofz.onrender.com/">Website</a>
         </p>
         <p align="center">
-          <a href='<a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">text</a>&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+          <a align="center" href="https://github.com/ajtoussaint/note-taking-app">Repository</a>
         </p>
       </td>
     </tr>
@@ -36,7 +36,7 @@
           <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
         </p>
         <p align="center">
-          <a align="center" href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">Google Play</a>
+          <a href='<a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">text</a>&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
         </p>
       </td>
     </tr>
@@ -78,4 +78,3 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
