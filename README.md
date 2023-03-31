@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Toussaint</h1>
+<img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic2.558b4067cd637fa6db73.PNG" height="430" width="2000" />
 <h3 align="center">Software Developer / Environmental Engineer</h3>
 
 - 🔭 I’m currently working on [Together Cars](https://github.com/ajtoussaint/together-cars)
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andrew-toussaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-toussaint" height="30" width="40" /></a>
-<a href="https://andrew-toussaint.onrender.com/" target="blank"><img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic2.4a35987a5cc9f173f281.PNG" alt="andrew-toussaint" height="40" width="40" /></a>
+<a href="https://andrew-toussaint.onrender.com/" target="blank"><img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic2.558b4067cd637fa6db73.PNG" alt="andrew-toussaint" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
