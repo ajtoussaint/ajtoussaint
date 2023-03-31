@@ -1,8 +1,8 @@
 <img align="center" src="https://raw.githubusercontent.com/ajtoussaint/personal-website/main/src/images/GitHeader.jpg" height="auto" width="100%" />
 
 <h3 align="center">Current Projects:</h3>
-<table width=100%>
-  <tbody>
+<table width="100%">
+  <tbody width="100%">
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">Project Name</h4>
