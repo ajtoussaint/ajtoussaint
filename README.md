@@ -10,11 +10,11 @@
           <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Together.11d62c85c6a46c3425bd.PNG" />
         </p>
         <p align="center">
-        <a align="center" href="https://togethercars.dev/">Website</a>
+          <a align="center" href="https://togethercars.dev/">Website</a>
         </p>
         <p align="center">
-    <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
-          </p>
+          <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
+        </p>
       </td>
       <td width="50%" valign="top">
         <h4 align="center">Bekenstein Limit</h4>
@@ -22,10 +22,10 @@
           <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Bekenstien.97e39f589eb8131d0b71.PNG" />
         </p>
         <p align="center">
-        <a align="center" href="https://note-taking-app-jofz.onrender.com/">Website</a>
+          <a align="center" href="https://note-taking-app-jofz.onrender.com/">Website</a>
         </p>
         <p align="center">
-    <a align="center" href="https://github.com/ajtoussaint/note-taking-app">Repository</a>
+          <a align="center" href="https://github.com/ajtoussaint/note-taking-app">Repository</a>
         </p>
       </td>
     </tr>
@@ -35,7 +35,9 @@
         <p align="center" width="100">
           <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
         </p>
-        <a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR" align="center"><img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
+        <p align="center"
+          <a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR" align="center"><img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
+        </p>
       </td>
     </tr>
    </tbody>
