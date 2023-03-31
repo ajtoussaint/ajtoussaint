@@ -1,7 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/ajtoussaint/personal-website/main/src/images/GitHeader.jpg" height="auto" width="100%" />
 
 <h3 align="center">Current Projects:</h3>
-<a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">text</a>
 <table width="100%">
   <tbody width="100%">
     <tr width="100%">
@@ -36,9 +35,7 @@
         <p align="center" width="100">
           <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
         </p>
-        <p align="center"
-          <a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">text</a>
-        </p>
+          <a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">Google Play</a>
       </td>
     </tr>
    </tbody>
