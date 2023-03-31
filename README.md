@@ -14,7 +14,9 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">Arithmagic</h4>
-        <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
+        <p align="center" width="100">
+          <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
+        </p>
         <br></br>
         <a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR" align="center"><img height="50" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" /></a>
       </td>
