@@ -1,13 +1,13 @@
 <img align="center" src="https://raw.githubusercontent.com/ajtoussaint/personal-website/main/src/images/GitHeader.jpg" height="auto" width="100%" />
 
-<h3 align="center">Current Projects:</h3>
+<h2 align="center">Projects</h2>
 <table width="100%">
   <tbody width="100%">
     <tr width="100%">
       <td width="50%" valign="top">
-        <h4 align="center">Together Cars</h4>
+        <h3 align="center">Together Cars</h3>
         <p align="center" width="100">
-          <img align="center" width="50%" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/TogetherCars.PNG?raw=true" />
+          <img align="center" width="50%" src="https://github.com/ajtoussaint/Profile-Images/blob/main/TogetherCars.PNG?raw=true" />
         </p>
         <p align="center">
           <a align="center" href="https://togethercars.dev/">Website</a>
@@ -17,9 +17,9 @@
         </p>
       </td>
       <td width="50%" valign="center">
-        <h4 align="center">Bekenstein Limit</h4>
+        <h3 align="center">Bekenstein Limit</h3>
        <p align="center">
-          <img align="center" width="50%" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/Bekenstien.PNG?raw=true" />
+          <img align="center" width="50%" src="https://github.com/ajtoussaint/Profile-Images/blob/main/BekensteinLimit.PNG?raw=true" />
         </p>
         <p align="center">
           <a align="center" href="https://note-taking-app-jofz.onrender.com/">Website</a>
@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">Arithmagic</h4>
+        <h3 align="center">Arithmagic</h3>
         <p align="center" width="100">
           <img align="center" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/Arithmagic3.PNG?raw=true" alt="Arithmagic" width="100" />
         </p>
