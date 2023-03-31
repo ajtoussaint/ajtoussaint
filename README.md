@@ -16,8 +16,7 @@
           <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
         </p>
       </td>
-    </tr>
-     <td width="50%" valign="center">
+      <td width="50%" valign="center">
         <h4 align="center">Bekenstein Limit</h4>
        <p align="center">
           <img align="center" width="50%" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/Bekenstien.PNG?raw=true" />
@@ -29,7 +28,6 @@
           <a align="center" href="https://github.com/ajtoussaint/note-taking-app">Repository</a>
         </p>
       </td>
-    <tr>
     </tr>
     <tr>
       <td width="50%" valign="top">
