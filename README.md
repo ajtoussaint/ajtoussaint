@@ -9,8 +9,9 @@
         <p align="center" width="100">
           <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Together.11d62c85c6a46c3425bd.PNG" />
         </p>
+        <p align="center">
         Website: <a align="center" href="https://togethercars.dev/">https://togethercars.dev/</a>
-        <br></br>
+        </p>
     <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
       </td>
       <td width="50%" valign="top">
