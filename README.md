@@ -7,7 +7,7 @@
       <td width="50%" valign="top">
         <h4 align="center">Together Cars</h4>
         <p align="center" width="100">
-          <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Together.11d62c85c6a46c3425bd.PNG" />
+          <img align="center" width="100%" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/TogetherCars.PNG?raw=true" />
         </p>
         <p align="center">
           <a align="center" href="https://togethercars.dev/">Website</a>
@@ -19,7 +19,7 @@
       <td width="50%" valign="top">
         <h4 align="center">Bekenstein Limit</h4>
        <p align="center" width="100">
-          <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Bekenstien.97e39f589eb8131d0b71.PNG" />
+          <img align="center" width="100%" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/Bekenstien.PNG?raw=true" />
         </p>
         <p align="center">
           <a align="center" href="https://note-taking-app-jofz.onrender.com/">Website</a>
@@ -33,7 +33,7 @@
       <td width="50%" valign="top">
         <h4 align="center">Arithmagic</h4>
         <p align="center" width="100">
-          <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
+          <img align="center" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/Arithmagic3.PNG?raw=true" alt="Arithmagic" width="100" />
         </p>
         <p align="center">
           <a href='https://play.google.com/store/apps/details?id=com.Saint2.MMR&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height='50' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
