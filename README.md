@@ -51,7 +51,7 @@
 
 - 🌱 I’m currently learning **nginx servers**
 
-- 🤝 I’m looking for help with **finding a full time job as a software engineer**
+- 🤝 I’m looking for help with **finding a full time position as a software engineer**
 
 - 📫 How to reach me **ajtoussaint217@gmail.com**
 
