@@ -7,7 +7,7 @@
       <td width="50%" valign="top">
         <h3 align="center">Together Cars</h3>
         <p align="center" width="100">
-          <img align="center" width="50%" src="https://github.com/ajtoussaint/Profile-Images/blob/main/TogetherCars.PNG?raw=true" />
+          <img align="center" width="50%" src="https://raw.githubusercontent.com/ajtoussaint/Profile-Images/main/TogetherCars.PNG" />
         </p>
         <p align="center">
           <a align="center" href="https://togethercars.dev/">Website</a>
