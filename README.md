@@ -35,7 +35,7 @@
         <p align="center" width="100">
           <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
         </p>
-        <p>
+        <p align="center">
           <a align="center" href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">Google Play</a>
         </p>
       </td>
