@@ -11,7 +11,8 @@
         </p>
         <p align="center">
           <a align="center" href="https://togethercars.dev/">Website</a>
-          <br></br>
+        </p>
+        <p align="center">
           <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
         </p>
       </td>
