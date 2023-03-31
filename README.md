@@ -60,7 +60,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/andrew-toussaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-toussaint" height="30" width="40" /></a>
-<a href="https://andrew-toussaint.onrender.com/" target="blank"><img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic2.558b4067cd637fa6db73.PNG" alt="andrew-toussaint" height="40" width="40" /></a>
+<a href="https://andrew-toussaint.onrender.com/" target="blank"><img align="center" src="https://github.com/ajtoussaint/Profile-Images/blob/main/Arithmagic2.PNG?raw=true" alt="andrew-toussaint" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
