@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/ajtoussaint/personal-website/main/src/images/GitHeader.jpg" height="auto" width="100%" />
 
 <h3 align="center">Current Projects:</h3>
-<table>
+<table width=100%>
   <tbody>
     <tr>
       <td width="50%" valign="top">
