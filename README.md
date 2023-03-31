@@ -13,10 +13,9 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">Project Name</h4>
-      </td>
-      <td width="50%" valign="top">
-        <h4 align="center">Project Name</h4>
+        <h4 align="center">Arithmagic</h4>
+        <img src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" />
+        <a href="https://play.google.com/store/apps/details?id=com.Saint2.MMR">Google Play Store</a>
       </td>
     </tr>
    </tbody>
