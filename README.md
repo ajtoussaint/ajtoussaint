@@ -7,14 +7,20 @@
       <td width="50%" valign="top">
         <h4 align="center">Together Cars</h4>
         <p align="center" width="100">
-          <img align="center" width="100" src="https://andrew-toussaint.onrender.com/static/media/Together.11d62c85c6a46c3425bd.PNG" />
+          <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Together.11d62c85c6a46c3425bd.PNG" />
         </p>
         Website: <a align="center" href="https://togethercars.dev/">https://togethercars.dev/</a>
         <br></br>
     <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">Project Name</h4>
+        <h4 align="center">Bekenstein Limit</h4>
+       <p align="center" width="100">
+          <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Bekenstien.97e39f589eb8131d0b71.PNG" />
+        </p>
+        <a align="center" href="https://note-taking-app-jofz.onrender.com/">Website</a>
+        <br></br>
+    <a align="center" href="https://github.com/ajtoussaint/note-taking-app">Repository</a>
       </td>
     </tr>
     <tr>
