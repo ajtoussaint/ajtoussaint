@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/ajtoussaint/personal-website/main/src/images/GitHeader.jpg" height="auto" width="100%" />
+<img align="center" src="https://github.com/ajtoussaint/Profile-Images/blob/main/GitHeader.jpg?raw=true" height="auto" width="100%" />
 
 <h2 align="center">Projects</h2>
 <table width="100%">
