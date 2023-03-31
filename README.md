@@ -6,7 +6,7 @@
     <tr width="100%">
       <td width="50%" valign="top">
         <h4 align="center">Together Cars</h4>
-        <p align="center" width="100">
+        <p align="center" width="100" height="300">
           <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Together.11d62c85c6a46c3425bd.PNG" />
         </p>
         <p align="center">
@@ -18,7 +18,7 @@
       </td>
       <td width="50%" valign="top">
         <h4 align="center">Bekenstein Limit</h4>
-       <p align="center" width="100">
+       <p align="center" width="100" height="300">
           <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Bekenstien.97e39f589eb8131d0b71.PNG" />
         </p>
         <p align="center">
@@ -32,7 +32,7 @@
     <tr>
       <td width="50%" valign="top">
         <h4 align="center">Arithmagic</h4>
-        <p align="center" width="100">
+        <p align="center" width="100" height="300">
           <img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic3.be69811601dee11302e1.PNG" alt="Arithmagic" width="100" />
         </p>
         <p align="center"
