@@ -1,4 +1,4 @@
-<img align="center" src="https://andrew-toussaint.onrender.com/static/media/Arithmagic2.558b4067cd637fa6db73.PNG" height="430" width="2000" />
+<img align="center" src="https://raw.githubusercontent.com/ajtoussaint/personal-website/main/src/images/GitHeader.jpg" height="430" width="2000" />
 <h3 align="center">Software Developer / Environmental Engineer</h3>
 
 - 🔭 I’m currently working on [Together Cars](https://github.com/ajtoussaint/together-cars)
