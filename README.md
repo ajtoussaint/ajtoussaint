@@ -1,5 +1,26 @@
 <img align="center" src="https://raw.githubusercontent.com/ajtoussaint/personal-website/main/src/images/GitHeader.jpg" height="auto" width="100%" />
-<h3 align="center">Software Developer / Environmental Engineer</h3>
+
+<h3 align="center">Current Projects:</h3>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <h4 align="center">Project Name</h4>
+      </td>
+      <td width="50%" valign="top">
+        <h4 align="center">Project Name</h4>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4 align="center">Project Name</h4>
+      </td>
+      <td width="50%" valign="top">
+        <h4 align="center">Project Name</h4>
+      </td>
+    </tr>
+   </tbody>
+</table>
 
 - 🔭 I’m currently working on [Together Cars](https://github.com/ajtoussaint/together-cars)
 
