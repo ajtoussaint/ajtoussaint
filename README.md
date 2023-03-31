@@ -16,7 +16,7 @@
           <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
         </p>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="display:flex; flex-direction:column; justify-content:space-around;">
         <h4 align="center">Bekenstein Limit</h4>
        <p align="center" width="100">
           <img align="center" width="100%" src="https://andrew-toussaint.onrender.com/static/media/Bekenstien.97e39f589eb8131d0b71.PNG" />
