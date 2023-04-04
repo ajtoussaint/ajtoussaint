@@ -26,7 +26,7 @@
           <img align="center" width="50%" src="https://github.com/ajtoussaint/Profile-Images/blob/main/BekensteinLimit.PNG?raw=true" />
         </p>
         <p align="center">
-          <a align="center" href="https://note-taking-app-jofz.onrender.com/">Website</a>
+          <a align="center" href="https://bekenstein-limit.onrender.com/">Website</a>
         </p>
         <p align="center">
           <a align="center" href="https://github.com/ajtoussaint/note-taking-app">Repository</a>
