@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/ajtoussaint/Profile-Images/blob/main/GitHeader.jpg?raw=true" height="auto" width="100%" />
 
 <p>
-  I graduated in 2021 with a BS in Engineering and began working as an environmental EIT at the Kentucky Energy and Environment cabinet. While working for the state I found that a lot of the systems were inefficient. I took the initiative to learn how to code and produced several internal tools to streamline our work. I thoroughly enjoyed the process of creating these software tools and felt that I was able to add more value through this type of work. I went on to create more applications outside of The Division and now I am looking to work at a company where I can practice software engineering full time.
+  Hello, my name is Andrew Toussaint. I make web applications designed to enhance productivity, organization, and communication. My main languages/tools are JavaScript, React.js, Node.js, and MongoDB. As a full stack developer, I have experience designing and deploying the frontend and the backend for web apps. I'm interested in joining an engineering team where I can put my skills to work and make an impact while growing as a software engineer.
 </p>
 
 <h2 align="center">Projects</h2>
