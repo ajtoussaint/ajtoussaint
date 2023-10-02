@@ -59,9 +59,9 @@
    </tbody>
 </table>
 
-- 🔭 I’m currently working on [Together Cars](https://github.com/ajtoussaint/together-cars)
+- 🔭 I’m currently working on My Masters Degree at Western Kentucky University
 
-- 🌱 I’m currently learning **nginx servers**
+- 🌱 I’m currently learning .NET 
 
 - 🤝 I’m looking for help with **finding a full time position as a software engineer**
 
