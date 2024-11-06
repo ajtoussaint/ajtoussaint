@@ -1,7 +1,10 @@
 <img align="center" src="https://github.com/ajtoussaint/Profile-Images/blob/main/GitHeader.jpg?raw=true" height="auto" width="100%" />
 
 <p>
-  Hello, my name is Andrew Toussaint. I make web applications designed to enhance productivity, organization, and communication. My main languages/tools are JavaScript, React.js, Node.js, and MongoDB. As a full stack developer, I have experience designing and deploying the frontend and the backend for web apps. I'm interested in joining an engineering team where I can put my skills to work and make an impact while growing as a software engineer.
+  Hello, my name is Andrew Toussaint. I'm pursuing a master's degree in computer science at Western Kentucky University and currently applying to graduate school to earn my PhD. My goal is to develop education software that leverages AI and Deep learning to provide personalized experiences to students.
+</p>
+<p>
+  I've made web applications designed to enhance productivity, organization, and communication. My main languages/tools are JavaScript, React.js, Node.js, and MongoDB. As a full stack developer, I have experience designing and deploying the frontend and the backend for web apps.
 </p>
 
 <h2 align="center">Projects</h2>
@@ -61,20 +64,10 @@
 
 - 🔭 I’m currently working on My Masters Degree at Western Kentucky University
 
-- 🌱 I’m currently learning .NET 
+- 🌱 I’m currently learning Deep Learning and Cognitive Diagnosis
 
-- 🤝 I’m looking for help with **finding a full time position as a software engineer**
+- 📫 How to reach me **andrew.toussiant906@topper.wku.edu**
 
-- 📫 How to reach me **ajtoussaint217@gmail.com**
-
-- 📄 Know about my experiences [andrew-toussaint.onrender.com](andrew-toussaint.onrender.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/andrew-toussaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-toussaint" height="30" width="40" /></a>
-<a href="https://andrew-toussaint.onrender.com/" target="blank"><img align="center" src="https://github.com/ajtoussaint/Profile-Images/blob/main/Arithmagic2.PNG?raw=true" alt="andrew-toussaint" height="40" width="40" /></a>
-<a href="https://twitter.com/@andrewtoussaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andrewtoussaint" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
