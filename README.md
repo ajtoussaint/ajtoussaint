@@ -9,19 +9,30 @@
   <tbody width="100%">
     <tr width="100%">
       <td width="50%" valign="top">
-        <h3 align="center">Together Cars</h3>
+        <h3 align="center">Master's Thesis (2025)</h3>
         <p align="center" width="100">
-          <img align="center" width="50%" src="https://raw.githubusercontent.com/ajtoussaint/Profile-Images/main/TogetherCars.PNG" />
+          Analysis of Computational Approaches to cognitive Diagnosis
         </p>
         <p align="center">
-          Currently Offline
+          <a align="center" href="https://digitalcommons.wku.edu/theses/3799/">Publication</a>
         </p>
         <p align="center">
-          <a align="center" href="https://github.com/ajtoussaint/together-cars">Repository</a>
+          <a align="center" href="https://github.com/ajtoussaint/Masters_Thesis">Repository</a>
         </p>
       </td>
       <td width="50%" valign="center">
-        <h3 align="center">Bekenstein Limit</h3>
+        <h3 align="center">Paista (2024)</h3>
+       <p align="center">
+          <img align="center" width="30%" src="https://github.com/ajtoussaint/Profile-Images/blob/main/Paista.PNG" />
+        </p>
+        <p align="center">
+          <a align="center" href="https://github.com/Lockwood-02/Paista">Repository</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Bekenstein Limit (2023)</h3>
        <p align="center">
           <img align="center" width="50%" src="https://github.com/ajtoussaint/Profile-Images/blob/main/BekensteinLimit.PNG?raw=true" />
         </p>
@@ -32,10 +43,8 @@
           <a align="center" href="https://github.com/ajtoussaint/note-taking-app">Repository</a>
         </p>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
-        <h3 align="center">Arithmagic</h3>
+      <h3 align="center">Arithmagic (2021)</h3>
         <p align="center" width="100">
           <img align="center" src="https://github.com/ajtoussaint/personal-website/blob/main/src/images/Arithmagic3.PNG?raw=true" alt="Arithmagic" width="100" />
         </p>
@@ -43,22 +52,28 @@
           <a href='https://play.google.com/store/apps/details?id=com.Saint2.MMR&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height='50' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
         </p>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">My Website</h3>
-        <p align="center" width="100">
-          <img align="center" src="https://github.com/ajtoussaint/Profile-Images/blob/main/WebsiteMain.PNG?raw=true" alt="Personal Website" width="50%" />
-        </p>
-        <p align="center">
-          <a align="center" href="https://andrew-toussaint.onrender.com">Website</a>
-        </p>
-        <p align="center">
-          <a align="center" href="https://github.com/ajtoussaint/personal-website">Repository</a>
-        </p>
-      </td>
     </tr>
    </tbody>
 </table>
 
+<h2 align="left">Teaching Experience</h2>
+<h3 align="left">Graduate Assistant Instructor, Western Kentucky University - Bowling Green, KY - Spring 2025</h3>
+CS 170 Problem Solving and Programming
+<ul>
+  <li>intorductory Python course</li>
+  <li>Designed and implemented over 30 lesson plans, 7 homework assingments, and for exams</li>
+  <li>Independently led 3 weekly class sessions for 20 students</li>
+</ul>
+
+<h3 align="left">Graduate Teaching Assistant, Western Kentucky University - Bowling Green, KY - Fall 2025</h3>
+CS 180 Computer Science I
+<ul>
+  <li>Introductory Java Course</li>
+  <li>Procotred four 1-hour lab period of 20-30 students</li>
+  <li>Developed presentations to introduce lab assignments and presented 2 guest lectures with multimedia interaction</li>
+</ul>
+
+<h2 align="left">Skills</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -77,7 +92,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Other Skills:</h3>
+<h3 align="left">Software:</h3>
 <p align="center">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
