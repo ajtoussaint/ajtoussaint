@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/ajtoussaint/Profile-Images/blob/main/GitHeader.jpg?raw=true" height="auto" width="100%" />
 
 <p>
-  Hello, my name is Andrew Toussaint. I'm puruing a PhD in computer science at Indiana University, Bloomington. My goal is to develop digital learning environments that provide deep insights to teachers and individualized experiences to students. I'm also interested in gameification of the learning process and game development in general. The best way to get in touch with me is my university email: <a href="mailto:ajtoussa@iu.edu">ajtoussa@iu.edu</a>
+  Hello, my name is Andrew Toussaint. I'm pursuing a PhD in computer science at Indiana University, Bloomington. My goal is to develop digital learning environments that provide deep insights to teachers and individualized experiences to students. I'm also interested in gameification of the learning process and game development in general. The best way to get in touch with me is my university email: <a href="mailto:ajtoussa@iu.edu">ajtoussa@iu.edu</a>
 </p>
 
 <h2 align="center">Projects</h2>
