@@ -61,7 +61,7 @@
 CS 170 Problem Solving and Programming
 <ul>
   <li>intorductory Python course</li>
-  <li>Designed and implemented over 30 lesson plans, 7 homework assingments, and for exams</li>
+  <li>Designed and implemented over 30 lesson plans, 7 homework assingments, and 4 exams</li>
   <li>Independently led 3 weekly class sessions for 20 students</li>
 </ul>
 
@@ -69,7 +69,7 @@ CS 170 Problem Solving and Programming
 CS 180 Computer Science I
 <ul>
   <li>Introductory Java Course</li>
-  <li>Procotred four 1-hour lab period of 20-30 students</li>
+  <li>Procotred four 1-hour lab periods of 20-30 students</li>
   <li>Developed presentations to introduce lab assignments and presented 2 guest lectures with multimedia interaction</li>
 </ul>
 
